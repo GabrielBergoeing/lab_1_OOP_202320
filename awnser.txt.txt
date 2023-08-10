@@ -1,0 +1,12 @@
+THIS IS A SURPRISE READ ME
+FOR REAL
+
+First thing: the following code "Pythonic Card Deck.py" is a specialiced python class where simulates and handles a french deck of cards, the class being formally called as FrenchDeck.
+The ranks go from A to K and the suits are hearts, spades, clubs and diamonds.
+The class Card initializes as Card([rank], [suit]), both viariables are considered as strings.
+
+it has some cool functions, yet to be developed
+*the following code was heavily inspired by the "Fluent Pythonic: Clear, Concise and Effective Programming", written by Luciano Ramahlo
+
+
+have a cool bug factz day :D
